@@ -1,0 +1,31 @@
+﻿farm_id,research_year,slope,maintenance,cultivar,mulching,umbrella,spring_cooler,drip_hose,frost_fan,windscreent
+aab,2021,0,Y,궁천,Y,Y,Y,Y,Y,Y
+bab,2021,0,Y,궁천 ,Y,Y,Y,Y,Y,Y
+cab,2021,0,Y,"궁천, 흥진",Y,Y,Y,Y,Y,Y
+dab,2021,0,Y,궁천,Y,Y,Y,Y,Y,Y
+eab,2021,2,Y,유라,Y,Y,Y,Y,Y,N
+fab,2021,2,Y,궁천,Y,Y,Y,Y,Y,N
+gab,2021,0,Y,궁천,Y,Y,Y,Y,Y,Y
+hab,2021,0,Y,궁천,Y,Y,Y,Y,Y,Y
+iab,2021,0,Y,궁천,Y,Y,N,Y,Y,N
+jab,2021,2,Y,일남일호,Y,Y,N,Y,Y,Y
+kab,2021,0,Y,궁천,Y,Y,N,Y,Y,Y
+lab,2021,1,Y,"궁천,극조생",Y,Y,Y,Y,Y,N
+mab,2021,0,Y,궁천,Y,Y,Y,Y,N,N
+nab,2021,0,Y,궁천,Y,N,N,Y,Y,N
+oab,2021,0,Y,"궁천,극조생",Y,N,N,Y,N,N
+pab,2021,2,Y,궁천,Y,N,Y,Y,N,N
+qab,2021,0,Y,궁천,Y,N,N,Y,Y,N
+rab,2021,1,Y,궁천,Y,N,Y,Y,Y,N
+sab,2021,2,Y,궁천,Y,N,N,N,N,Y
+tab,2021,0,Y,"극조생,궁천,온주",Y,Y,N,Y,N,N
+uab,2021,0,Y,"궁천,하례",Y,N,N,Y,Y,N
+vab,2021,0,Y,하례조생,Y,N,N,Y,Y,N
+wab,2021,0,Y,"궁천,일남일호",Y,N,N,Y,Y,N
+xab,2021,0,Y,"조생,궁천",Y,Y,N,Y,N,N
+yab,2021,0,Y,"유라,궁천",Y,Y,N,Y,N,N
+zab,2021,0,Y,궁천,Y,N,N,Y,N,N
+abb,2021,0,Y,"흥진,일남일호",Y,Y,N,Y,N,N
+bbb,2021,0,Y,궁천,Y,Y,N,N,Y,Y
+cbb,2021,0,Y,궁천,Y,N,N,N,N,N
+dbb,2021,2,Y,"궁천,조생",Y,N,Y,N,N,N
