@@ -11,4 +11,4 @@ The author's computer hardware specifications are as follows and were fully func
 
 
 <b> Software Requirements </b></br>
-To run the code, you need to have v3.4.0 or later of the R program installed. To install packages in R, use the install.packages() command. For example, to install the 'tidyverse' package, run install.packages("tidyverse")
+To run the code, you need to have v4.3.0 or later of the R program installed. To install packages in R, use the install.packages() command. For example, to install the 'tidyverse' package, run install.packages("tidyverse")
