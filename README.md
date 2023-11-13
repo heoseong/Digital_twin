@@ -1,6 +1,6 @@
 # Digital_twin
 
-Section 1. System requirements
+<b>Section 1. System requirements</b>
 
 All software dependencies and operating systems (including version numbers): Users must install R and RStudio in order to run the codes provided in the GitHub and Zenodo repository. R and RStudio run on both Windows and MacOS. R must be installed, then RStudio can be installed. See Section 2 (Installation Guide) for installing R and RStudio.
 
@@ -8,13 +8,13 @@ Versions the software has been tested on: R version 4.3.1.
 
 Any required non-standard hardware: None 
 
-Section 2. Installation guide
+<b>Section 2. Installation guide</b>
 
 Instructions: See here. R must be installed, then RStudio can be installed. All R packages can be installed in RStudio. See here for installing packages. No installation is needed for the agricultural DT demo.
 
 Typical install time on a “normal” desktop computer: Installing R and RStudio should take less than 5 minutes each. (It may depend on internet speed.) Installing a package in RStudio usually takes less than one minute (or a few seconds) depending on size and dependencies.
 
-Section 3. Demo
+<b>Section 3. Demo</b>
 
 Instructions to run on data: Agricultural DT demo can be used as follows.
 
@@ -36,7 +36,7 @@ Expected output: When an orchard is selected, the most recent information is pre
 
 Expected run time for demo on a “normal” desktop computer: A few seconds (less than 3 seconds)
 
-Section 4. Instructions for use
+<b>Section 4. Instructions for use</b>
 
 How to run the software on your data: See Section 3 (Demo).
 
