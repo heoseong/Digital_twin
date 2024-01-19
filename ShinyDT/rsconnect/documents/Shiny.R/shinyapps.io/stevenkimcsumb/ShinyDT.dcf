@@ -1,0 +1,13 @@
+name: ShinyDT
+title: ShinyDT
+username: stevenkimcsumb
+account: stevenkimcsumb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10400949
+bundleId: 7889699
+url: https://stevenkimcsumb.shinyapps.io/ShinyDT/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Code.R
